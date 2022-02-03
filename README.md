@@ -1,2 +1,2 @@
 # NLP_ADR-extraction-by-BERT
-Extracting adverse drug reaction by using BERT model
+Extracting adverse drug reaction by using BERT+LSTM model
